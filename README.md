@@ -15,7 +15,7 @@
    * [Questions](#questions)
    
   ## Installation
-  💻 react, express, NPM, React-Dom, react-icons, react-scroll.
+  💻 react, express, NPM, React-Dom, react-icons, react-scroll, tailwindcss.
   
   ## Usage
   💻 Showcase portfolio with react. 
