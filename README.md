@@ -40,7 +40,7 @@
   ✏️ Find my project on Github: Mkish1220
 
   ## Contact
-  ✉️ Email me with any questions or concerns: github contact info
+  ✉️ Email me with any questions or concerns: MKish1220
 
   ## GitHub Username
    Mkish1220
